@@ -1,0 +1,21 @@
+{
+  "name": "dadjokes",
+  "version": "1.0.0",
+  "description": "My breathtaking Nuxt.js project",
+  "author": "Attakora",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cross-env": "^7.0.0",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
